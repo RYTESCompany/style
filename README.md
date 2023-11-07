@@ -50,11 +50,11 @@ Never stack the icon and the type. They should always be horizontal. The icon ca
 
 #### ✔️ Full Logo 
 
-![](rytes-company-logo-light-400x65.png)
+> ![](rytes-company-logo-light-400x65.png)
 
 #### ✔️ Standalone Icon
 
-![](rytes-company-flag.png)
+> ![](rytes-company-flag.png)
 
 #### ❌ Stacked Icon and Text
 
